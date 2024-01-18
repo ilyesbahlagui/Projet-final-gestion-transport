@@ -1,0 +1,3 @@
+#!/bin/sh -eu
+#json-server json-server/db.json --routes json-server/routes.json &
+npm start
